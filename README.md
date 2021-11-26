@@ -7,3 +7,10 @@ Some example outputs:
 
 
 ![othello image](screenshot.png)
+
+## Installation
+If you want to run it locally, install required libraries with
+
+```
+> pip install -r requirements.txt
+```
